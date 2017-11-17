@@ -37,5 +37,14 @@ public class TestBasicos {
 		Assert.assertEquals(7, calc.Valor());
 			
 	}
+	
+	@Test
+	public void Restar_4_menos_3_debe_dar_1() {
+		//Calculadora calc = new Calculadora();
+		
+		calc.Restar(4,3);
+		Assert.assertEquals(7, calc.Valor());
+			
+	}
 
 }
