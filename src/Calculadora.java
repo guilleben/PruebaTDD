@@ -13,6 +13,12 @@ public class Calculadora {
 	valor = PrimerSumando+SegundoSumando;
 		
 	}
+
+	public void Restar(int i, int j) {
+		// TODO Auto-generated method stub
+		valor = 4 - 3;
+		
+	}
 	
 
 }

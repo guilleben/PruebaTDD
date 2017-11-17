@@ -43,7 +43,7 @@ public class TestBasicos {
 		//Calculadora calc = new Calculadora();
 		
 		calc.Restar(4,3);
-		Assert.assertEquals(7, calc.Valor());
+		Assert.assertEquals(1, calc.Valor());
 			
 	}
 
